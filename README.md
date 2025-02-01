@@ -39,10 +39,16 @@ cd DailyPost
 ```
 
 ### 2. 安装依赖
-安装项目所需的依赖：
+#### 安装Python所需的依赖：
 ```
 pip install -r requirements.txt
 ```
+#### 项目依赖
+
+Redis
+
+Google-Chrome
+
 ### 3. 配置参数
 在 DailyPost/src/backend/.env 文件中创建并填写你的配置信息，例如：
 
