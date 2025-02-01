@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+celery==5.4.0
+google_search_results==2.4.2
+loguru==0.7.3
+openai==1.60.2
+pydantic==2.10.6
+Requests==2.32.3
+selenium==4.28.1
+webdriver_manager==4.0.2
